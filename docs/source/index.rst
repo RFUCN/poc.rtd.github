@@ -21,3 +21,4 @@ Contents
    lvl2/index
    usage
    api
+   lvl1/index
