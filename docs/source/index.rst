@@ -18,5 +18,6 @@ Contents
 
 .. toctree::
 
+   lvl2/index
    usage
    api
